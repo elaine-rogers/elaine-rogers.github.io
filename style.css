@@ -33,15 +33,17 @@ li a {
 h1{
     white-space: pre;
     text-align: center;
+    color: rgb(35, 38, 65);
 }
 
 p{
     margin-right: 150px;
     margin-left: 150px;
+    color: rgb(35, 38, 65);
 }
 
 #time {
-    color: black;
+    color: rgb(35, 38, 65);
     font-size: 20px;
     margin-right: 150px;
     margin-left: 150px
