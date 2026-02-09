@@ -1,0 +1,60 @@
+body {
+    background-image: url(Roses.webp);
+    font-family: 'Courier New', Courier, monospace
+}
+
+ul 
+{
+    list-style-type: none;
+    display: table;
+    margin: 0 auto;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: rgb(35, 38, 65);
+  padding: 32px;
+  text-decoration: none;
+}
+
+.white-box { 
+    background-color: aliceblue;
+    width: 1200px; 
+    height: 1200px; 
+    margin-top: 25px; 
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+h1{
+    white-space: pre;
+    text-align: center;
+}
+
+p{
+    margin-right: 150px;
+    margin-left: 150px;
+}
+
+#time {
+    color: black;
+    font-size: 20px;
+    margin-right: 150px;
+    margin-left: 150px
+}
+
+input{
+    margin-left: 150px;
+    margin-right: 150px;
+    width: 500px;
+    height: 30px;
+}
+
+button{
+    margin-left: 150px;
+    margin-right: 150px;
+}
